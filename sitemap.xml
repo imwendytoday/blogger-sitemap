@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
   <channel>
     <title>Noticias de Juegos Hoy</title>
-    <link>https://noticiasdejuegoshoy.blogspot.com/</link>
     <description>Noticias de Juegos Hoy: las últimas novedades en español sobre FC 26, Fortnite, Diablo 4, WoW y otros juegos populares.</description>
+    <link>https://noticiasdejuegoshoy.blogspot.com</link>
+    <atom:link href="https://reyesgaminghub.substack.com/feed" rel="self" type="application/rss+xml"/>
+    <generator>Blogger</generator>
+    <link>https://noticiasdejuegoshoy.blogspot.com/</link>
     
     <item>
       <title>EA Sports FC 26 Live Events: Nuevas competiciones en Ultimate Team con Event Hub y recompensas mejoradas</title>
@@ -79,3 +81,4 @@
     
   </channel>
 </rss>
+
