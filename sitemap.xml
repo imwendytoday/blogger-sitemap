@@ -7,9 +7,7 @@
     <title>Noticias de Juegos Hoy</title>
     <description>Noticias de Juegos Hoy: las últimas novedades en español sobre FC 26, Fortnite, Diablo 4, WoW y otros juegos populares.</description>
     <link>https://noticiasdejuegoshoy.blogspot.com</link>
-    <atom:link href="https://noticiasdejuegoshoy.blogspot.com/feeds/posts/default" rel="self" type="application/rss+xml"/>
     <generator>Blogger</generator>
-    
     <item>
       <title>EA Sports FC 26 Live Events: Nuevas competiciones en Ultimate Team con Event Hub y recompensas mejoradas</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/08/fc-26-live-events.html</link>
@@ -17,7 +15,6 @@
       <description>Los Live Events de FUT 26 traen torneos temáticos, requisitos de plantilla únicos y un sistema de recompensas más rápido y accesible.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/08/fc-26-live-events.html</guid>
     </item>
-
     <item>
       <title>Fortnite: Todo lo que debes saber sobre el Capítulo 6 Temporada 4 &#8211; Shock-N-Awesome</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/08/fortnite-todo-lo-que-debes-saber-sobre.html</link>
@@ -25,7 +22,6 @@
       <description>Descubre todo sobre Fortnite Capítulo 6 Temporada 4: nuevas skins, armas eléctricas, zonas con voltaje y cambios en el modo competitivo.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/08/fortnite-todo-lo-que-debes-saber-sobre.html</guid>
     </item>
-
     <item>
       <title>Novedades en EA SPORTS FC 26! Nuevas Funciones para Ultimate Team</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/08/novedades-en-ea-sports-fc-26-nuevas.html</link>
@@ -33,7 +29,6 @@
       <description>Descubre las últimas novedades de EA SPORTS FC 26. Torneos, Guanteletes, Bounties, y mucho más en Ultimate Team.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/08/novedades-en-ea-sports-fc-26-nuevas.html</guid>
     </item>
-
     <item>
       <title>EA SPORTS FC 26: La revolución del Modo Carrera ya está aquí</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/08/fc-26-modo-carrera-novedades.html</link>
@@ -57,7 +52,6 @@
       <description>EA FC 26 ya es oficial: descubre las nuevas funciones, modos y mejoras reveladas por EA.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/07/fc-26-cambios-en-la-jugabilidad-que.html</guid>
     </item>
-
     <item>
       <title>EA FC 26 ya es una realidad y viene cargado de novedades que ilusionan</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/07/ea-fc-26-ya-es-una-realidad-y-viene.html</link>
@@ -65,7 +59,6 @@
       <description>Noticias de Juegos Hoy: las últimas novedades en español sobre FC 26, Fortnite, Diablo 4, WoW y otros juegos populares.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/07/ea-fc-26-ya-es-una-realidad-y-viene.html</guid>
     </item>
-
     <item>
       <title>FC 25 FUTTIES Héroe Jaap Stam SBC: Soluciones y Análisis en el Juego</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/07/fc-25-futties-heroe-jaap-stam-sbc.html</link>
@@ -73,7 +66,6 @@
       <description>Completa el SBC Heroe FUTTIES de Jaap Stam en FC 25 con nuestra guía. Requisitos, recompensas y consejos para conseguir esta leyenda defensiva.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/07/fc-25-futties-heroe-jaap-stam-sbc.html</guid>
     </item>
-
     <item>
       <title>FUTTIES Vitinha SBC en FC 25: Soluciones más baratas, análisis y rendimiento en el juego</title>
       <link>https://noticiasdejuegoshoy.blogspot.com/2025/07/futties-vitinha-sbc-en-fc-25-soluciones.html</link>
@@ -81,8 +73,5 @@
       <description>Descubre las mejores soluciones para completar el SBC de FUTTIES Vitinha en FC 25. Requisitos, costos y recompensas para conseguir al mediocampista.</description>
       <guid>https://noticiasdejuegoshoy.blogspot.com/2025/07/futties-vitinha-sbc-en-fc-25-soluciones.html</guid>
     </item>
-    
   </channel>
 </rss>
-
-
